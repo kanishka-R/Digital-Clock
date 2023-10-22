@@ -1,0 +1,41 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    border: 0cap;
+}
+#heading {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(20, 85, 85);
+    padding-top: 90px;
+
+}
+.container {
+    margin: 10px auto;
+    height: 150px;
+    width: 300px;
+    padding: 30px;
+    border: 1px solid rgb(58, 58, 63);
+    text-align: center;
+    background-color: rgb(76, 71, 76);
+}
+.time {
+    font-size: 40px;
+    padding-right: 20px;
+}
+.prepand {
+    padding-top: 10px;
+}
+.row {
+    font-size: 18px;
+    padding-left: 100px;
+}
+.date {
+    font-size: 26px;
+    padding: 10px;
+    color: violet;
+}
+.year{
+    padding-left: 240px;
+    color: aqua;
+}
